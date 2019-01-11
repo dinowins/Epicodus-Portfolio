@@ -2,6 +2,15 @@
   box-sizing: border-box;
 }
 
+
+body, html {
+  background-image: url("../img/mountainsBG1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
 .container {
   position:relative; padding:0 0 0 55px;
 }
@@ -13,6 +22,6 @@
 }
 
 .content {
-  border:1px solid #000;
+  /* border:1px solid #000; */
   margin:5px 0 5px 0;
 }
