@@ -20,6 +20,7 @@ body, html {
   width: auto;
   text-align: center;
   font-family: Roboto, sans-serif;
+  margin-top: 20px;
   /* background:#000; */
 }
 
@@ -34,11 +35,12 @@ body, html {
 
 .jumbotron-font{
   font-family: 'Nunito Sans', sans-serif;
+  padding-top: 50px;
 }
 
 .index-jumbotron {
   margin-top: 100px;
-  background-color: rgba(255, 255, 255, 0.75);
+  background-color: rgba(255, 255, 255, 0.4);
   text-align: center;
 }
 
@@ -48,4 +50,16 @@ body, html {
 
 p, li {
   font-family: Roboto, sans-serif;
+}
+
+#propic {
+  height: 50px;
+  width:50px;
+  float: left;
+  padding-right: 5px;
+  border-radius: 25px;
+}
+
+.panel {
+  background-color: rgba(255, 255, 255, 0.2);
 }
