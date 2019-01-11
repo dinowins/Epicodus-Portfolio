@@ -18,10 +18,19 @@ body, html {
 .navbar {
   position:absolute;
   width: auto;
-  background:#000;
+  /* background:#000; */
 }
 
 .content {
   /* border:1px solid #000; */
   margin:5px 0 5px 0;
+}
+
+.jumbotron-font{
+  font-family: Merriweather, serif;
+}
+
+.index-jumbotron {
+  margin-top: 100px;
+  background-color: rgba(255, 255, 255, 0.75);
 }
