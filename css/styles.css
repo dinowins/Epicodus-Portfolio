@@ -35,7 +35,9 @@ body, html {
 
 .jumbotron-font{
   font-family: 'Nunito Sans', sans-serif;
-  padding-top: 50px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 75px;
 }
 
 .index-jumbotron {
