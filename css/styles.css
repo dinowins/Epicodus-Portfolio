@@ -18,6 +18,8 @@ body, html {
 .navbar {
   position:absolute;
   width: auto;
+  text-align: center;
+  font-family: Roboto, sans-serif;
   /* background:#000; */
 }
 
@@ -26,11 +28,24 @@ body, html {
   margin:5px 0 5px 0;
 }
 
+.jumbotron-index-font{
+  font-family: 'Libre Barcode 128 Text', cursive;
+}
+
 .jumbotron-font{
-  font-family: Merriweather, serif;
+  font-family: 'Nunito Sans', sans-serif;
 }
 
 .index-jumbotron {
   margin-top: 100px;
   background-color: rgba(255, 255, 255, 0.75);
+  text-align: center;
+}
+
+.index-h2 {
+  font-size: 15px;
+}
+
+p, li {
+  font-family: Roboto, sans-serif;
 }
