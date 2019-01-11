@@ -1,0 +1,18 @@
+*, {
+  box-sizing: border-box;
+}
+
+.container {
+  position:relative; padding:0 0 0 55px;
+}
+
+.navbar {
+  position:absolute;
+  width: auto;
+  background:#000;
+}
+
+.content {
+  border:1px solid #000;
+  margin:5px 0 5px 0;
+}
