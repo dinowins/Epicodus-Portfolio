@@ -65,3 +65,20 @@ p, li {
 .panel {
   background-color: rgba(255, 255, 255, 0.2);
 }
+
+.email {
+  font-size: 20px;
+  text-align: center;
+  padding: 55px;
+}
+
+.skills {
+  font-size: 15px;
+  text-align: center;
+  pdding: 50px;
+}
+
+.panel p {
+  text-align: center;
+  font-family: Roboto, sans-serif;
+}
